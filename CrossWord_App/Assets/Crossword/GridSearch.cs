@@ -6,14 +6,16 @@ using UnityEngine.UI;
 public class GridSearch : MonoBehaviour
 {
     private static int sk;
-    private int count = 0;
+    public int count;
     public Grid grid;
     public End end;
     public int Seach()
     { 
+        count = 0;
         grid = GameObject.FindObjectOfType<Grid>();
+        end = GameObject.FindObjectOfType<End>();
         sk = grid.skaicius;
-        Debug.Log("i am home");
+
         for (int i = 0; i < grid.height; i++)
         {
             for (int j = 0; j < grid.width; j++)
@@ -31,7 +33,7 @@ public class GridSearch : MonoBehaviour
         }
         if(sk == count)
         {
-            end.EndGame();
+            end.gameEnded = true;
             return 1;
         }
         else

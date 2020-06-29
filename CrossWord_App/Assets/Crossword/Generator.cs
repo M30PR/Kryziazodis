@@ -89,7 +89,7 @@ public class Generator : MonoBehaviour
     void Reading(List<Galvosukis> list)
     {
         //string file = textFile.text;
-        string file = @"C:\Users\laury\Desktop\Galvosukis.txt";
+        string file = "Assets/Crossword/Galvosukis.txt";
         //string[] words = phrase.Split(';');
         using (TextReader sr = File.OpenText(file))
         {

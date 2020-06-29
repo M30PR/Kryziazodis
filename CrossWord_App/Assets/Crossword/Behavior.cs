@@ -12,10 +12,11 @@ public class Behavior : MonoBehaviour
     private Grid grid;
     public static int width;
     public static int height;
-    private GridSearch search = new GridSearch();
+    private GridSearch search;
     private void Awake()
     {
         grid = GameObject.FindObjectOfType<Grid>();
+        search = GameObject.FindObjectOfType<GridSearch>();
     }
     void Start()
     {
@@ -30,7 +31,6 @@ public class Behavior : MonoBehaviour
         txt.text = grid.crossword[x, y].uzduotis.ToString();
         hoverColor = rend.material.color;
         WasOnNode(x, y);
-        Debug.Log(x + " " + y);
     }
     public void WasOnNode(int x, int y)
     {
@@ -43,7 +43,7 @@ public class Behavior : MonoBehaviour
             SpriteRenderer cell = GameObject.Find(s).GetComponent<SpriteRenderer>();
             SpriteText txt = cell.GetComponent<SpriteText>();
             txt.InitCell(raide);
-            search.Seach();
+            //search.Seach();
     }
 
 }

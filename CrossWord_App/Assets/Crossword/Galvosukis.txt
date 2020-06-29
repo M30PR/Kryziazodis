@@ -1,52 +1,52 @@
-rektorius;Aukštosios mokyklos vadovas;asa/
-Karakasas;Venesuelos Sostinė;asas/
-Kancleris;Kunigaikščio raštinės vadovas;asad/
-Jerevanas;Armėnijos sostinė;adad/
-Hiperbolė;Praeityje grasi Lietuvos muzikos grupė;adad/
-dinastija;Vieno kilmės monarchų giminė;adada/
-Šoušenko;Filmas "Pabėgimas iš ...";dadad/
-Sfinksas;Liūtas su žmogaus galva;adad/
-Neptūnas;Jūros valdovo lotyniškas vardas;adad/
-Materija;Medžiaginis pradas;adada/
-Katmandu;Nepalo Sostinė;adad/
-karceris;Sunkiausio režimo kalėjimo vienutė;adada/
-fontanas;Trykštanti čiurkšlė;adada/
-Džakarta;Indonezijos Sostinė;adada/
-Dublinas;Airijos Sostinė;adada/
-Damaskas;Sirijos Sostinė;adada/
-Statoil;Norvegų degalinių tinklas lietuvoje;adada/
-Padanga;Elastinga rato dalis;adada/
-Nemunas;Lietuvos Upė;adada/
-mamutas;milžiniškas ledynmečio gyvūnas;adada/
-likeris;Stiprus saldus aromatinis gėrimas;adada/
-Kojotas;prerijų vilkas;adada/
-Kanbera;Australijos Sostinė;adada/
-Gertuvė;Žygio indelis vandeniui;adada/
-dinaras;Alžyro piniginis vienetas;adada/
-Didikas;Aukštos kilmės asmuo;adada/
-belangė;Kalėjimas arba ...;adada/
-Austras;Tapytojo Gustavo Klimato tautybė;adada/
-Rusija;Didžiausia Azijos valstybė;adada/
-raketa;Kosminė transporto priemonė;adada/
-plakis;Karpininų šeimos žuvis;adada/
-paktas;Tarptautinė sutartis;adada/
-Maleta;Maltos Sostinė;adada/
-Luotas;iš vientiso medžio kamieno išskobtas laivelis;adada/
-kakadu;Papūga, paplituri Australijoje;adada/
-druska;Sūrus , neaugalinės kilmės prieskonis;adada/
-bolero;Senovinis ispanų liaudies šokis;adada/
-Blogas;"Geras" antonimas;adada/
-vakar;Praeita diena;adada/
-triko;Aptemptas drabužis;adada/
-Svita;Garbingo asmens palyda;adad/
-Nosis;Jutimo organas;adada/
-mulas;Kumelės ir asilo hibridas;adada/
-Milda;Pas graikus Afroditė , o pas lietuvius;adada/
-Migla;Retas rūkas;adada/
-laiba;Didelė būrinė valtis;adada/
-Koala;Sterblinis žinduolis;adada/
-Kings;NBA komanda iš Sakramento;adada/
-Urna;Indas lavono pelenams laikyti;adada/
-Sala;Jūros aspsupta vieta;adada/
-Garo;TV laida "Duokim ...";adada/
-Amen;Maldos Žodis;adada/
+REKTORIUS;Aukštosios mokyklos vadovas;asa/
+KARAKASAS;Venesuelos Sostinė;asas/
+KANCLERIS;Kunigaikščio raštinės vadovas;asad/
+JEREVENAS;Armėnijos sostinė;adad/
+HIPERBOLĖ;Praeityje grasi Lietuvos muzikos grupė;adad/
+DINASTIJA;Vieno kilmės monarchų giminė;adada/
+ŠOUŠENKO;Filmas "Pabėgimas iš ...";dadad/
+SFINSKAS;Liūtas su žmogaus galva;adad/
+NEPTŪNAS;Jūros valdovo lotyniškas vardas;adad/
+MATERIJA;Medžiaginis pradas;adada/
+KATMANDU;Nepalo Sostinė;adad/
+KARCERIS;Sunkiausio režimo kalėjimo vienutė;adada/
+FONTANAS;Trykštanti čiurkšlė;adada/
+DŽAKARTA;Indonezijos Sostinė;adada/
+DUBLINAS;Airijos Sostinė;adada/
+DAMASKAS;Sirijos Sostinė;adada/
+STATOIL;Norvegų degalinių tinklas lietuvoje;adada/
+PADANGA;Elastinga rato dalis;adada/
+NEMUNAS;Lietuvos Upė;adada/
+MAMUTAS;milžiniškas ledynmečio gyvūnas;adada/
+LIKERIS;Stiprus saldus aromatinis gėrimas;adada/
+KOJOTAS;prerijų vilkas;adada/
+KANBERA;Australijos Sostinė;adada/
+GERTUVĖ;Žygio indelis vandeniui;adada/
+DINARAS;Alžyro piniginis vienetas;adada/
+DIDIKAS;Aukštos kilmės asmuo;adada/
+BELANGĖ;Kalėjimas arba ...;adada/
+AUSTRAS;Tapytojo Gustavo Klimato tautybė;adada/
+RUSIJA;Didžiausia Azijos valstybė;adada/
+RAKETA;Kosminė transporto priemonė;adada/
+PLAKIS;Karpininų šeimos žuvis;adada/
+PAKTAS;Tarptautinė sutartis;adada/
+MALETA;Maltos Sostinė;adada/
+LUOTAS;iš vientiso medžio kamieno išskobtas laivelis;adada/
+KAKADU;Papūga, paplituri Australijoje;adada/
+DRUSKA;Sūrus , neaugalinės kilmės prieskonis;adada/
+BOLERO;Senovinis ispanų liaudies šokis;adada/
+BLOGAS;"Geras" antonimas;adada/
+VAKAR;Praeita diena;adada/
+TRIKO;Aptemptas drabužis;adada/
+SVITA;Garbingo asmens palyda;adad/
+NOSIS;Jutimo organas;adada/
+MULAS;Kumelės ir asilo hibridas;adada/
+MILDA;Pas graikus Afroditė , o pas lietuvius;adada/
+MIGLA;Retas rūkas;adada/
+LAIBA;Didelė būrinė valtis;adada/
+KOALA;Sterblinis žinduolis;adada/
+KINGS;NBA komanda iš Sakramento;adada/
+URNA;Indas lavono pelenams laikyti;adada/
+SALA;Jūros aspsupta vieta;adada/
+GARO;TV laida "Duokim ...";adada/
+AMEN;Maldos Žodis;adada/
