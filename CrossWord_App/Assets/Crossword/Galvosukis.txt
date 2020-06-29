@@ -1,0 +1,52 @@
+rektorius;Aukštosios mokyklos vadovas;asa/
+Karakasas;Venesuelos Sostinė;asas/
+Kancleris;Kunigaikščio raštinės vadovas;asad/
+Jerevanas;Armėnijos sostinė;adad/
+Hiperbolė;Praeityje grasi Lietuvos muzikos grupė;adad/
+dinastija;Vieno kilmės monarchų giminė;adada/
+Šoušenko;Filmas "Pabėgimas iš ...";dadad/
+Sfinksas;Liūtas su žmogaus galva;adad/
+Neptūnas;Jūros valdovo lotyniškas vardas;adad/
+Materija;Medžiaginis pradas;adada/
+Katmandu;Nepalo Sostinė;adad/
+karceris;Sunkiausio režimo kalėjimo vienutė;adada/
+fontanas;Trykštanti čiurkšlė;adada/
+Džakarta;Indonezijos Sostinė;adada/
+Dublinas;Airijos Sostinė;adada/
+Damaskas;Sirijos Sostinė;adada/
+Statoil;Norvegų degalinių tinklas lietuvoje;adada/
+Padanga;Elastinga rato dalis;adada/
+Nemunas;Lietuvos Upė;adada/
+mamutas;milžiniškas ledynmečio gyvūnas;adada/
+likeris;Stiprus saldus aromatinis gėrimas;adada/
+Kojotas;prerijų vilkas;adada/
+Kanbera;Australijos Sostinė;adada/
+Gertuvė;Žygio indelis vandeniui;adada/
+dinaras;Alžyro piniginis vienetas;adada/
+Didikas;Aukštos kilmės asmuo;adada/
+belangė;Kalėjimas arba ...;adada/
+Austras;Tapytojo Gustavo Klimato tautybė;adada/
+Rusija;Didžiausia Azijos valstybė;adada/
+raketa;Kosminė transporto priemonė;adada/
+plakis;Karpininų šeimos žuvis;adada/
+paktas;Tarptautinė sutartis;adada/
+Maleta;Maltos Sostinė;adada/
+Luotas;iš vientiso medžio kamieno išskobtas laivelis;adada/
+kakadu;Papūga, paplituri Australijoje;adada/
+druska;Sūrus , neaugalinės kilmės prieskonis;adada/
+bolero;Senovinis ispanų liaudies šokis;adada/
+Blogas;"Geras" antonimas;adada/
+vakar;Praeita diena;adada/
+triko;Aptemptas drabužis;adada/
+Svita;Garbingo asmens palyda;adad/
+Nosis;Jutimo organas;adada/
+mulas;Kumelės ir asilo hibridas;adada/
+Milda;Pas graikus Afroditė , o pas lietuvius;adada/
+Migla;Retas rūkas;adada/
+laiba;Didelė būrinė valtis;adada/
+Koala;Sterblinis žinduolis;adada/
+Kings;NBA komanda iš Sakramento;adada/
+Urna;Indas lavono pelenams laikyti;adada/
+Sala;Jūros aspsupta vieta;adada/
+Garo;TV laida "Duokim ...";adada/
+Amen;Maldos Žodis;adada/

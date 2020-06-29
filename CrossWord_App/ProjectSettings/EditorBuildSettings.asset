@@ -5,7 +5,13 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
-    path: Assets/Scenes/Main scene.unity
+  - enabled: 0
+    path: Assets/OSK/Assets/Scenes/SampleOnScreenKeyboardScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Main_Scene.unity
+    guid: b0de1e99b3fe8fe458a50f9936e0426c
+  - enabled: 1
+    path: Assets/Scenes/Game_Scene.unity
+    guid: 73e1e59426007a341ba789777ef8b3bd
   m_configObjects: {}
