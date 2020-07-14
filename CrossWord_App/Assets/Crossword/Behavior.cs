@@ -43,7 +43,7 @@ public class Behavior : MonoBehaviour
             SpriteRenderer cell = GameObject.Find(s).GetComponent<SpriteRenderer>();
             SpriteText txt = cell.GetComponent<SpriteText>();
             txt.InitCell(raide);
-            //search.Seach();
+            search.Seach();
     }
 
 }
